@@ -1,0 +1,30 @@
+_repo: A-Manual-of-the-Operations-of-SurgeryFor-the-Use-of-Senior-Students-House-Surgeons-and-Junior__24564
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bell, Joseph
+    birthdate: 1837
+    deathdate: 1911
+    gutenberg_agent_id: '26588'
+    url: http://www.gutenberg.org/2009/agents/26588
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2008-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Surgery, Operative'
+- !lcc 'RD'
+- !lcc 'LT'
+title: 'A Manual of the Operations of Surgery
+
+  For the Use of Senior Students, House Surgeons, and Junior Practitioners'
+url: http://www.gutenberg.org/ebooks/24564
